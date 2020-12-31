@@ -1,0 +1,7 @@
+{
+  "name": "my-social-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
